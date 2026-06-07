@@ -1,23 +1,31 @@
-# Retail Store Sales Data Analytics - Internship Project
+# Data Analytics Internship 2026
 
-## 📊 Project Overview
-This repository contains a comprehensive analysis of Retail Store Product Sales data as part of my Data Analytics Internship. The project focuses on deriving actionable business insights from sales transactions using Python and data visualization techniques.
+**Name:** S Naveen Reddy  
+**GitHub:** @N0040  
+**Email:** naveenreddi9666@gmail.com 
 
-## 🎯 Objectives
-- Analyze sales trends across different time periods
-- Identify top-performing products and categories  
-- Understand customer purchasing patterns
-- Create data-driven recommendations for business growth
+## 🎯 Career Goal
+Aspiring Data Analyst | Learning Python, SQL, Excel & Power BI to solve real business problems.
 
-## 📁 Dataset
-- **File:** `Dataset/RetailStoreProductSalesDataset.csv`
-- **Source:** Retail Store Transaction Records
-- **Key Columns:** Transaction ID, Date, Customer ID, Product Category, Product Name, Quantity, Unit Price, Total Amount
+## 🛠️ Skills & Tools
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Excel, Power BI, MySQL, Git, GitHub
+- **Concepts:** Data Cleaning, EDA, Data Visualization, Statistics
 
-## 🛠️ Tools & Technologies
-- **Language:** Python 3.x
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **IDE:** Jupyter Notebook
-- **Version Control:** Git & GitHub
+## 📂 Project Roadmap
+1. **Python Basics** - Data types, loops, functions
+2. **Pandas Projects** - CSV analysis, data cleaning
+3. **SQL Queries** - Joins, aggregations, case studies  
+4. **Excel Dashboards** - Interactive reports
+5. **Power BI** - Business dashboards
+6. **End-to-End Project** - Complete analysis + insights
 
-## 📂 Repository Structure
+## 📊 Current Status
+- ✅ Week 1: Data cleaning with Python + Pandas
+- ✅ Week 2: SQL queries for business metrics  
+- ✅ Week 3: Power BI dashboard with bar chart, slicer, filters
+- ✅ Week 4: Final report + insights + recommendations
+- 
+## 📞 Connect With Me
+Email: naveenreddi9666@gmail.com
