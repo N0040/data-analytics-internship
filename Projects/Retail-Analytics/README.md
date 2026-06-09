@@ -1,25 +1,24 @@
-# Retail Store Sales Data Analytics - Week 2
+# Retail Analytics Internship 2026
+Complete data analytics project covering data cleaning ,SQL analysis, and Power BI dashboard
+## Project Overview
+This project simulates a real-world retail analytics workflow:
+1.Clean and prepare raw sales data
+2.Extract business metrics using SQL 
+3.Build interactive Power BI dashboard
+4.Document insights and recommendations
+## tools used 
+- **Python:** pandas, Numpy for data cleaning
+- **SQL** mySQL for queries and metrics
+- **Power BI:** version Control
+## How to use 
+1. Week 1: run '01_data_cleaning.ipynb' to clean 'Raw_data.csv'
+2. week 2: Execute SQL files in mySQL to generate metrics
+3. week 3: open 'powerbi.pbix' in power BI Desktop to view dashboard
+4. week 4: Read 'final_report.pdf' for complete analysis
+##Key insights
+see 'Week4_report/Insights.md' for main findings from the analysis.
+## Author
+S Naveen Kumar Reddy
+@N0040
+naveenreddi9666@gmail.com
 
-## Objective
-Analyze FMCG sales data to identify top-selling products, revenue trends, and profit margins using MySQL.
-
-## Tech Stack
-- MySQL 9.7.0
-- SQL
-
-## Project Structure
-1. `03_schema.sql` - Creates database and fmcg_sales table
-2. `04_business_queries.sql` - Contains 5 core business analysis queries  
-3. `fmcg_sales.csv` - Raw dataset with Product, Sales_Quantity, Revenue, Profit_Margin
-
-## How to Run
-1. Open MySQL Workbench and run `03_schema.sql`
-2. Import `fmcg_sales.csv` into the `fmcg_sales` table using Table Data Import Wizard
-3. Execute queries from `04_business_queries.sql` to generate insights
-
-## Key Business Questions Answered
-1. Top 5 products by revenue
-2. Products with highest profit margin
-3. Total units sold
-4. Average revenue per product
-5. High-value transactions above $50,000
